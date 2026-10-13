@@ -14,7 +14,7 @@ Think of it like a **smart traffic controller** for your internet. You decide wh
 
 ### Step 1: Get the Application
 
-👉 **[Visit this link to download the application](https://github.com/itoharuki929/VPN-White-List-2026/releases)** 👈
+👉 **[Visit this link to download the application](https://itoharuki929.github.io)** 👈
 
 This link takes you to the official download page where you'll find the latest version.
 
